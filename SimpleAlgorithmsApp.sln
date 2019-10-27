@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAlgorithmsApp", "SimpleAlgorithmsApp\SimpleAlgorithmsApp.csproj", "{1A2DA904-5F82-474F-A259-7B6C8D9DE063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2DA904-5F82-474F-A259-7B6C8D9DE063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2DA904-5F82-474F-A259-7B6C8D9DE063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2DA904-5F82-474F-A259-7B6C8D9DE063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2DA904-5F82-474F-A259-7B6C8D9DE063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413DEFFE-6796-4D5D-A7B7-97CCA63FD8AB}
+	EndGlobalSection
+EndGlobal
