@@ -1,0 +1,13 @@
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.exe
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.deps.json
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.runtimeconfig.json
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.runtimeconfig.dev.json
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.dll
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\bin\Debug\netcoreapp3.0\SimpleAlgorithmsApp.pdb
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.csprojAssemblyReference.cache
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.AssemblyInfo.cs
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.dll
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.pdb
+C:\Users\Alexandr\Source\Repos\SimpleAlgorithmsApp\SimpleAlgorithmsApp\obj\Debug\netcoreapp3.0\SimpleAlgorithmsApp.genruntimeconfig.cache
